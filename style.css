@@ -399,7 +399,7 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 
 img,
 video {
-  max-width: 125%;
+  max-width: 140%;
   height: auto;
 }
 
@@ -641,7 +641,7 @@ h1,  h2,  h3,  h4,  h5,  h6{
   bottom: 0px;
 }
 .q{
-  right: 0px;
+  right: -40px;
 }
 .r{
   top: 0px;
